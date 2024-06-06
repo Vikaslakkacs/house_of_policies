@@ -1,0 +1,11 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+pandas
+pinecone-client
+Pypdf
+tiktoken
+nemoguardrails
+-e .
